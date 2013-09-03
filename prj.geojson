@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Location": "Regional Office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.31254208087921,
+                    33.84582995988929
+                ]
+            }
+        }
+    ]
+}
