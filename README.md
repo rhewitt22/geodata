@@ -1,4 +1,4 @@
 geodata
 =======
 
-Spatial data collected using geojson.io
+Spatial data stores in geojson format
