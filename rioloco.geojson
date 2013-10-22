@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project Name": "Upper Watershed Introduction",
+                "Description": "The upper zone of the Guánica Bay/Rio Loco Watershed has Humid Subtropical Forest vegetation and very steep slopes. Agriculture is a major economic activity in this region, being this area one of the most    important areas of coffee production in Puerto Rico.  In the 90’s the traditional shade-grown coffee was pushed to change to sun-grown coffee which triggered huge deforestation in the farmlands.  It has been estimated that erosion associated with sun-grown coffee is 3.5 times more severe, than that related to shade-grown coffee (Hartemink, 2006), thus this change in agricultural activities have threatened coral reef species.  Furthermore, massive land clearings for agricultural activities and unpaved road networks, have resulted in extensive areas with bare soil, and with very limited natural re-colonization by native vegetation due to the high clay content.  For the Upper Watershed conservation goals are to reduce erosion, improve water quality and quantity, improve forest habitat for wildlife, and apply conservation practices like tree and shrub planting, nutrient and pest management, and riparian forest buffers. NRCS, USFWS, along with other agencies and NGOs, are partnering to support the transformation of sun-grown coffee to shade-grown coffee plantations.",
+                "Thumbnail" : "",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.797943,
+                    18.20354
+                ]
+            }
+        }
+    ]
+}
