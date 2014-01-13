@@ -3,44 +3,92 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {
-                "Project Name": "Upper Watershed Introduction",
-                "Description": "The upper zone of the Guánica Bay/Rio Loco Watershed has Humid Subtropical Forest vegetation and very steep slopes. Agriculture is a major economic activity in this region, being this area one of the most    important areas of coffee production in Puerto Rico.  In the 90’s the traditional shade-grown coffee was pushed to change to sun-grown coffee which triggered huge deforestation in the farmlands.  It has been estimated that erosion associated with sun-grown coffee is 3.5 times more severe, than that related to shade-grown coffee (Hartemink, 2006), thus this change in agricultural activities have threatened coral reef species.  Furthermore, massive land clearings for agricultural activities and unpaved road networks, have resulted in extensive areas with bare soil, and with very limited natural re-colonization by native vegetation due to the high clay content.  For the Upper Watershed conservation goals are to reduce erosion, improve water quality and quantity, improve forest habitat for wildlife, and apply conservation practices like tree and shrub planting, nutrient and pest management, and riparian forest buffers. NRCS, USFWS, along with other agencies and NGOs, are partnering to support the transformation of sun-grown coffee to shade-grown coffee plantations."
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -66.797943,
-                    18.20354
+                    -66.896,
+                    18.143
                 ]
+            },
+            "properties": {
+                "number": "1",
+                "action": "Erosion Control in the Upland Coffee Region",
+                "description": "The goal of this partnership is to work with private landowners to implement sustainable agroforestry practices to create ecological services that offer both direct and indirect &lsquo;income/payback&rsquo; to farmers and the natural ecosystem. One of the main conservation practices promoted by this partnership is the conversion of the traditional sun-grown coffee into the more sustainable shade-grown coffee in the upper region of the R&iacute;o Loco Watershed. </br></br>Shade-grown coffee provides many benefits including soil protection/erosion control, carbon sequestration, natural pest control and improved pollination. The initiative has successfully restored more than 700 acres of land by planting over 23,806 native trees over 31 coffee farms. </br></br>Conservation practices include on-the-ground activities such as, forest enhancement, forest enrichment and the establishment of riparian buffers.</br></br>These practices promote 30% of shade cover to coffee plantations using four native tree species, traditionally used by coffee farmers in Puerto Rico.</br></br>The implementation of these conservation practices directly improve terrestrial and aquatic habitat that are important for federally listed species, candidate species, and migratory birds. </br></br>In addition to agroforestry practices, new techniques such as   hydroseeding and hydromulching techniques are been used to reduce pollutants and activities like capacity building to empower local women in sustainable agribusiness and other educational activities has been taking place in this region."
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "Project Name": "USFWS Caribbean Ecological Services Field Office",
-                "Description": "This is placeholder text."
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -66.863362,
-                    18.183085
+                    -66.886,
+                    18.058
                 ]
+            },
+            "properties": {
+                "number": "2",
+                "action": "Control of Reservoir Sedimentation and Transport",
+                "description": "In 1952, a multipurpose project involving dams, water transfer systems, hydroelectric plants, and irrigation-drainage channels was initiated to intensify agricultural production in Lajas Valley.  This project included the construction of Loco and Luchetti reservoirs to produce energy and irrigation purposes.</br></br>As result of historic land clearing and poor erosion control practices affected reservoirs functionalities, causing sedimentation deposition, creating overflow and sediments transport to rivers and coral reefs ecosystems.</br></br>Through this initiatives conservation practices has been taking place in private lands to reduce erosion and sediments transport to the reservoirs.  These practices include; runoff management, riparian forests, nutrient management, and hydroseeding and hydromulching techniques.</br></br>In addition, educational activities in and capacity building for sustainable practices to local farmers and schools are taking place along the watershed.</br></br>Addressing sedimentation transport to reservoirs provides a benefit to coastal ecosystems, providing healthy habitat for aquatic fauna, native fish and coral reefs ecosystems.</br></br>The reservoirs also provide recreational activities such as fishing, kayaking and wildlife photography."
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "Project Name": "USDA Natural Resources Conservation Service",
-                "Description": "This is placeholder text."
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -66.865582,
-                    18.160934
+                    -66.899,
+                    17.996
                 ]
+            },
+            "properties": {
+                "number": "3",
+                "action": "Restoration of In-stream Channel Erosion",
+                "description": "Partners are working with private landowners  along the R&iacute;o Loco watershed to reduce in-stream channel erosion, improve water quality and quantity, improve forest habitat for wildlife, by applying conservation practices such as runoff management, riparian buffers, nutrient management, water and sediment control basins, hydroseeding and hydromulching techniques.</br></br>Agriculture is a major economic activity in this region, being the upper part of the watershed one of the most important areas of coffee production in Puerto Rico.  The current land use is approximately 48% forested, 43% agriculture and 9% urban.  Poor erosion control practices have caused a decline in the water quality and in consequence a decline in near shore reef quality.</br></br>As result of this effort, a total of 1,200 linear feet of river banks in R&iacute;o Loco are stabilized through the use of bioengineering environmental friendly techniques and 2 sediment control basins and 3 irrigation ponds have been constructed on the lower watershed area to help in the management of the water resources of the area.  These practices also help with in-stream channel stabilization; reduce sediment transport to reservoirs, minimizing potential sediment impacts to coral reefs ecosystem.</br></br>In addition, studies about sediment impacts in coral reef are taking place along the coast of South West Puerto Rico."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.933,
+                    17.999
+                ]
+            },
+            "properties": {
+                "number": "4",
+                "action": "Restoration of the Historic Gu&aacute;nica Lagoon",
+                "description": "The historic Gu&aacute;nica Lagoon was a natural freshwater system drained in 1955 as a result of an agricultural development project in Lajas Valley. Historically, Gu&aacute;nica Lagoon served as a sink for nutrients, sediment and other contaminants (Warne et. al., 2005).  This Lagoon also was an important area for waterfowl, migratory and resident bird&rsquo;s species.  Currently, most of the lands inside the Gu&aacute;nica Lagoon footprint are on public domain and have been scarcely used for intense agriculture, mainly because of persistent wetland conditions, frequent inundation, and challenging soil conditions for agriculture.  </br></br>The main goal of this action is to restore the historic Gu&aacute;nica Lagoon in order to restore the sediment and nutrient assimilative capacity, improve habitat for wildlife, improve water quality and to protect coral reef ecosystem. </br></br>Meetings with landowners and stake holders have been conducted to address concerns from the communities.  In addition, farm inventory and soil salinity and hydrologic study have been conducted in the Lajas Valley to provide a scientific basis for the restoration of Gu&aacute;nica lagoon."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.91,
+                    17.966
+                ]
+            },
+            "properties": {
+                "number": "5",
+                "action": "Wetland Restoration",
+                "description": "Wetlands play an important role in the environment, principally works as water purification, flood control, groundwater recharge, provide habitat for fish and wildlife species and shoreline stability.  </br></br>As part of this action, partners are working to seek funds to construct a series of treatment wetlands to address nitrogen source from the Gu&aacute;nica Sewage Treatment Plant and runoff coming from urbanize areas to Gu&aacute;nica Bay.   Treatment wetlands design is completed.</br></br>Wetland habitat provides for breeding, foraging, and cover habitat for many species of birds, fish, mammals, reptiles, and amphibians."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.907,
+                    17.949
+                ]
+            },
+            "properties": {
+                "number": "6",
+                "action": "Coastal Marine Enviroment",
+                "description": "Land-based pollutants are the primary cause of coastal and coral reef degradation along the Gu&aacute;nica bay coastline. Restoration actions made throughout the GB/RL Watershed Initiative are playing an important role in reverting and preventing these negative effects and promoting the overall health of coral reef ecosystems. The on-going activities conducted by all the partners would help water quality arriving at reservoirs, in-stream and to the Gu&aacute;nica Bay addressing the major threat to coral reef ecosystem benefiting species that depend of this ecosystem such as fish, sea turtles and manatees."
             }
         }
     ]
