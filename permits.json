@@ -1,0 +1,907 @@
+[
+  {
+    "permitNumber":"130300",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"13844A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"34476",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"89074",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"137403",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"02200B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"02206B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"100626",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"05089B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"237535",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"05601B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"812344",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"136811",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"05526B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"05565B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"69280",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"2507",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"27608B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"02344A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"237549",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"12156B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"12169B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"145045",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"171493",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"106005",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"237548",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"18717B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"18684B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"27307",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"61069",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"81756A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"18825B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"148282",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"23583B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"121059",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"106708",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"14105A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"54963",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"171545",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"24030B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"20026A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"24053B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"41314",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"13879B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"73096A",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"91373A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"91366A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"11542",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"51429",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"24343B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"77258",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"20020A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"171488",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"25057B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"28025A",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37492B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"102292",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"79580A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"94704A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"63633A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"37909B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37886B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"17848",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"8187",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"819338",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37991B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"40600B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"37219B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"9638",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"70796",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"35313B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"22690",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"21809A",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"51552",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"26395B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Denied"
+  },
+  {
+    "permitNumber":"37490B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"212106",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"37498B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"70584",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"22468",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"77175",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"171516",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"02344A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37884B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37887B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"35319B",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"125620",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"225877",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"207027",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"48833A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In-Review"
+  },
+  {
+    "permitNumber":"117769",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"83085",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37896B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"14102A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37900B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"63633A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"13910A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"38042B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37951B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37953B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"142294",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"139474",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37954B",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37955B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37966B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37967B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"102418",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"46491A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"137403",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"38043B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"38906B",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"178643",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"807672",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"71613A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37666B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"206784",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37663B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37524B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"92854",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37661B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"91705",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"97394A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"38397A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"51429",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"810274",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"25612A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"35339B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37658B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"117405",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"129703",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"119937",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37652B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"37657B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37659B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"37530B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"132772",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"84047",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"43704A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"816862",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"87176",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"65756",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"28597A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"38519A",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"38819B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"39433B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"39434B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"105674",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"40143B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"45109",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"40178B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"89075",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"40197B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"61005",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"40367B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"56510",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"41750B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"41707B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"41705B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"84054",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"70846",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"171518",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"108584",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"41910B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"41966B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"102324",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"100012",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"40423",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"33469",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"66980",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"43261B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"43264B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"51553",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"44513B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"44530B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"16270",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"49654",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"45011B",
+    "fedRegisterStatus":"Public Notice Not Required",
+    "permitStatus":"Issued"
+  },
+  {
+    "permitNumber":"38642A",
+    "fedRegisterStatus":"needs to be drafted",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"807672",
+    "fedRegisterStatus":"Noticed for 30 days",
+    "permitStatus":"In RO for signatory approval"
+  },
+  {
+    "permitNumber":"70800",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  },
+  {
+    "permitNumber":"48582B",
+    "fedRegisterStatus":"on current draft",
+    "permitStatus":"In RO for in-processing"
+  }
+]
